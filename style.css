@@ -76,7 +76,7 @@ body {
 
 @media (max-width: 480px) {
     .title {
-        margin: 30px 15px;
+        margin: 30px 25px;
         font-size: 25px;
     }
     .container { flex-direction: column; }
@@ -87,7 +87,7 @@ body {
         height: 100%;
         
         margin: 30px 10px;
-        padding: 0 45px;
+        padding: 20px 30px;
 
         font-size: 18px;
     }
