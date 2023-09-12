@@ -251,7 +251,7 @@ body {
                 .attribution a { color: #2c6e5fc8; text-decoration: none; }
 
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     header {
         background-position: center;
         height: 90%;
